@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Response
 
 ## Standard API response's for Express API's
@@ -62,3 +63,7 @@ app.get('api/foo', function(req, res) {
 
 
 
+=======
+# response
+A small module which builds standard API responses in Express.js
+>>>>>>> 00cc52f7d3a54f96ba84d3fd2e95f49aa12ddca3
