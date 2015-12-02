@@ -4,7 +4,7 @@
   "description": "Default API responses for Express apps",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/hugesuccess/response#readme",
   "devDependencies": {
-    "express": "^4.13.3"
+    "chai": "^3.4.1",
+    "express": "^4.13.3",
+    "jasmine": "^2.3.2",
+    "mocha": "^2.3.4"
   }
 }

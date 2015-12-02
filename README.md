@@ -59,3 +59,8 @@ app.get('api/foo', function(req, res) {
       });
     });
 ````
+
+
+### Tests
+
+Tests with Mocha + Chai. To run simply type 'npm test'.
