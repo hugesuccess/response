@@ -1,0 +1,28 @@
+{
+  "name": "response",
+  "version": "1.0.0",
+  "description": "Default API responses for Express apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugesuccess/response.git"
+  },
+  "keywords": [
+    "express",
+    "response",
+    "api",
+    "codes"
+  ],
+  "author": "HugeSuccess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugesuccess/response/issues"
+  },
+  "homepage": "https://github.com/hugesuccess/response#readme",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
